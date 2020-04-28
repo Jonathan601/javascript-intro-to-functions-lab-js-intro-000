@@ -18,7 +18,7 @@ function sayHiToGrandma(hello){
     case('HELLO'):
     return("YES INDEED!");
     break;
-    case('I love you Grandma'):
+    case('I love you, Grandma'):
     return("I love you, too.");
     break;
   }
